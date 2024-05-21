@@ -1,0 +1,10 @@
+
+FedSage
+ FedSage Global Org Test Set Metrics:	loss: 0.9320	acc: 0.8306
+ FedSage+ Global Org Test Set Metrics:	loss: 0.9292	acc: 0.8554
+FedSage
+ FedSage Global Org Test Set Metrics:	loss: 0.8821	acc: 0.8444
+ FedSage+ Global Org Test Set Metrics:	loss: 0.8976	acc: 0.8370
+FedSage
+ FedSage Global Org Test Set Metrics:	loss: 0.8811	acc: 0.8610
+ FedSage+ Global Org Test Set Metrics:	loss: 0.8835	acc: 0.8527

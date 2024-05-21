@@ -1,0 +1,27 @@
+
+LocSage
+Local Test Set Metrics:	loss: 0.5947	acc: 0.8674
+ LocSagePlusC Global Org Test Set Metrics:	loss: 1.3881	acc: 0.5230
+ LocSage Global Org Test Set Metrics:	loss: 1.4202	acc: 0.5037
+local #nodes = 904
+local #edges = 1627
+
+
+
+LocSage
+Local Test Set Metrics:	loss: 0.7354	acc: 0.8122
+ LocSagePlusC Global Org Test Set Metrics:	loss: 1.3491	acc: 0.5239
+ LocSage Global Org Test Set Metrics:	loss: 1.2268	acc: 0.5525
+local #nodes = 902
+local #edges = 1516
+
+
+
+LocSage
+Local Test Set Metrics:	loss: 0.6054	acc: 0.9171
+ LocSagePlusC Global Org Test Set Metrics:	loss: 1.3578	acc: 0.5359
+ LocSage Global Org Test Set Metrics:	loss: 1.2562	acc: 0.5654
+local #nodes = 903
+local #edges = 1527
+
+

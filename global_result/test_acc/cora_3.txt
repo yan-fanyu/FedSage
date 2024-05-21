@@ -1,0 +1,7 @@
+
+Global model
+Global Test Set Metrics:	loss: 0.5170	acc: 0.8545
+Global model
+Global Test Set Metrics:	loss: 0.3018	acc: 0.9263
+Global model
+Global Test Set Metrics:	loss: 0.3200	acc: 0.9254
